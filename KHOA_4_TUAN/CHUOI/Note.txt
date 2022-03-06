@@ -1,0 +1,16 @@
+'''
+dung ham name.isupper() tra ve true neu chuoi toan ki tu IN HOA
+dung ham name.islower() tra ve true neu chuoi toan ki tu IN THUONG
+dung ham name.isdecimal() tra ve true neu chuoi toan SO THAP PHAN
+dung ham name.isdigit() tra ve true neu chuoi toan CHU SO
+isalnum() trong Python vốn được sử dụng để kiểm tra xem tất cả ký tự trong chuỗi có phải là ký tự chữ hoặc số
+hamf title() in hoa chu cai dau trong chuoi
+'''
+a="tran quang dang"
+b="TRAN QUANG DANG"
+c="Tran Quang  Dang"
+
+print(a.islower())
+print(b.isupper())
+print(c.islower())
+print(c.isupper())

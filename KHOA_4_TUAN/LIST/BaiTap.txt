@@ -1,0 +1,6 @@
+Nhập từ bàn phím mảng số nguyên gồm n phần tử, sau đó thực hiện:
+1. Tính tổng các phần tử là số lẻ trong mảng
+2. Tính tổng các phần tử vị trí chẵn
+3. Xóa các phần tử là số âm có trong mảng
+4. Thay thế các phần tử âm có trong mảng bằng giá trị 0
+5. Tìm vị trí của số lớn nhất trong mảng

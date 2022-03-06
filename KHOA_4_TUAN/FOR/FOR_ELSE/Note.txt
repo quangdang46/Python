@@ -1,0 +1,1 @@
+vòng lặp for else là khi thực hiện xong vòng for 1 cách tự nhiên mà không phải kết thức bằng lệnh break thì nhảy xuống thưc hiện lênh ELSE

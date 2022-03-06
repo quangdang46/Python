@@ -1,0 +1,16 @@
+Câu 1: Trình bày kỹ thuật lưu file và đọc file trong Python
+Câu 2: Viết phần mềm Quản Lý sản phẩm
+• Mỗi danh mục có: Mã , tên; Một danh mục có nhiều sản phẩm
+• Mỗi sản phẩm có: Mã, tên, đơn giá; Mỗi một sản phẩm thuộc về một danh mục.
+• Cho phép: lưu mới, sửa, xóa, tìm kiếm, sắp xếp, lưu và đọc Text File
+Câu 3: Viết phần mềm quản lý Sinh Viên
+• Mỗi một lớp có: Mã lớp, tên; một lớp có nhiều Sinh viên
+Mỗi sinh viên có: mã, tên, năm sinh; Mỗi một sinh viên thuộc về một lớp.
+Cho phép: lưu mới, sửa, xóa, tìm kiếm, sắp xếp, lưu và đọc File
+
+Câu 4:
+a) Viết hàm cho phép lưu tập tin dưới dạng text file, yêu cầu khởi tạo là 10
+dòng, mỗi dòng sẽ có 10 số ngẫu nhiên cách nhau bởi dấu “;". Xem hình minh
+hoa
+b) Tiếp theo viết hàm cho phép đọc tập tin từ câu a, xuất ra tổng giá trị của các
+phần tử trên mỗi dòng.

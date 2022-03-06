@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e627e99-194a-4f0d-bc46-166b3559d7e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_31/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_31/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_31/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_31/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_31/src/HoaDonCaPhe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_31/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/src/Ngay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/src/Sach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/src/TacGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_35/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/src/BoPhim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/src/HangSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/src/Ngay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/Java_36/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GALAILT/OPENCV/DemNgonTay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GALAILT/OPENCV/opencv_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GALAILT/OPENCV/opencv_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GALAILT/OPENCV/opencv_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BREAK/Break_For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BREAK/Lenh_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BREAK/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/CanLe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/Find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/Hoa_Thuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/KiemTraDoiXung.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/LietKeTongHop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/NoiChuoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/Start_End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/SubString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/TachChuoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/TimDauSoPhone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/ToiUuChuoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/XoaKhoangTrang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/XoaKiTuTrang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHUOI/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONTINUE/Tong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONTINUE/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE_QUY/Day_Fibonacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE_QUY/GiaiThua.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIEU_KIEN/BAITAP/Bai2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIEU_KIEN/BAITAP/Bai3..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_Day/De.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_Day/Doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_Day/NhapDuLieu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_Day/XuLi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_Day/XuatSoAm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_Day/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_RENLUYEN/Cau2/NhapDuLieu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_RENLUYEN/Cau2/XuLi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/BT_RENLUYEN/De.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/Datebase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOC_GHI_FILE/csdl_so.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EVAL/Eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EVAL/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/Bang_Cuu_Chuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/FOR_ELSE/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/FOR_ELSE/TongLe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/InBangCuuChuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/InChuN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/InSoLe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/InTamGiacCan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/KiemTraSNT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/Tam_Giac_Vuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/TongDaySo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOR/VeTamGiac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNCTION/Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNCTION/UCLN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLOBAL/Global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ham_Clock_Sleep/Clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ham_Clock_Sleep/Sleep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ham_Clock_Sleep/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/BaiTapList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/BaiTapList2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/BaiTapListDaChieu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Cat_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/List_DACHIEU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Tao_Xuat_2_Chieu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIST/Tham_Chieu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PARAMETER/Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RANDOM/Game_Doan_So.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RANDOM/Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TOAN_HOC/HamToanHoc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Codecamp/Button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Codecamp/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Codecamp/Entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Codecamp/Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Codecamp/Icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Codecamp/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/CheckButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/ChuyenDoiCoSo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/Icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/MessengerBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/RadioButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/Scale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/GaCon/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/APPPtBac2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/AppGiaiPtBac1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/AppMayTinh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/BMI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/CacControl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/DoiDoC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/Icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/Key.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/Label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/MayTinh2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/Mess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/DocGhi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/Logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/SapXep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/ma.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/nam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/PROJECT/ten.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/TaoCuaSo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/tam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/TRAN_DUY_THANH/windowcenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WHILE/Lenh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WHILE_ELSE/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WHILE_ELSE/TongSoDuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tempCodeRunnerFile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tempCodeRunnerFile.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 7/OOP/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 7/OOP/Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 7/OOP/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 7/Object01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 7/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 8/DocFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Chapter 8/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZERO_HERO/Numpy/Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/.idea/100BTLT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Bai8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/100BTLT/Ebook.100.bai.tap.lap.trinh.python-tieng.viet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/Bai2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/Bai3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/BaiTapDic01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/BaiTapDic02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/BaiTapDict03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/BaiTapDict04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/CayThong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/ChiaCho7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/ChuyenDoiCoSo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/Fibo_SNT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/Giai_Thua.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/InFibonancy..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/InSNT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/LietKeSNT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/List03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/Oscillate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/PhanLoaiCoThe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/PhanTichThuaSo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/ROI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/SoNghichDao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/TaoList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/TaoList02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/TaoList04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/TaoList05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/TongChuSo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/TongUoc_SHH_STV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BAITAP/UCLN_BCNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/7-ngay-lam-chu-python-co-ban-main/Python - basic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/7-ngay-lam-chu-python-co-ban-main/Python - numpy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/7-ngay-lam-chu-python-co-ban-main/Python -pandas.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/7-ngay-lam-chu-python-co-ban-main/Python Matplotlib.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/7-ngay-lam-chu-python-co-ban-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Applied Statistics and Probability for Engineers by Douglas C. Montgomery, George C. Runger (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Be Data Literate The Data Literacy Skills Everyone Needs To Succeed by Jordan Morrow (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Big Data Bootcamp What Managers Need to Know to Profit from the Big Data Revolution by David Feinleib (auth.) (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Big Data in Practice How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results by Bernard Marr (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Data Analytics Practical Guide to Leveraging the Power of Algorithms, Data Science, Data Mining, Statistics, Big Data, and Predictive Analysis to Improve Business, Work, and Life by Arthur Zhang (z-lib.org).e.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Head First Statistics by Dawn Griffiths (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Learning from Data The Art of Statistics by David Spiegelhalter (z-lib.org).epub.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Machine Learning 2 Books in 1 An Introduction Math Guide for Beginners to Understand Data Science Through the Business Applications by Hack, Samuel (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/Statistics The Art and Science of Learning from Data by Christine A. Franklin, Bernhard Klingenberg, Alan Agresti (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/[EMC-Education-Services]-Data-Science-and-Big-Data(z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TAI_LIEU/databook.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="245djzkOiSNcnbmJLgf5c30ADGP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.KiemTraSNT">
+    <configuration name="Bang_Cuu_Chuong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KHOA_4_TUAN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FOR/Bang_Cuu_Chuong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KiemTraSNT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KHOA_4_TUAN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FOR/KiemTraSNT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KiemTraSNT" />
+        <item itemvalue="Python.Bang_Cuu_Chuong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e627e99-194a-4f0d-bc46-166b3559d7e7" name="Changes" comment="" />
+      <created>1642924524262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642924524262</updated>
+      <workItem from="1642924525408" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KHOA_4_TUAN$KiemTraSNT.coverage" NAME="KiemTraSNT Coverage Results" MODIFIED="1642924555962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FOR" />
+    <SUITE FILE_PATH="coverage/KHOA_4_TUAN$Bang_Cuu_Chuong.coverage" NAME="Bang_Cuu_Chuong Coverage Results" MODIFIED="1642924545190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FOR" />
+  </component>
+</project>

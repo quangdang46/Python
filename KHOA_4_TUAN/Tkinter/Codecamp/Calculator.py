@@ -1,0 +1,43 @@
+from tkinter import *
+root=Tk()
+root.title("Calculator")
+ent=Entry(root,width=50,borderwidth=2)
+ent.grid(row=0,column=0,columnspan=3,padx=10,pady=10)
+#columnspan gop nhieu cot
+def Button_Click(number):
+    current=ent.get()
+    ent.delete(0,END)
+    ent.insert(0,str(current)+str(number))
+def Button_Clear():
+    ent.delete(0,END)
+def Button_add():
+    return
+bt2=Button(root,text='2',command=lambda : Button_Click(2),padx=40,pady=20)
+bt3=Button(root,text='3',command=lambda : Button_Click(3),padx=40,pady=20)
+bt4=Button(root,text='4',command=lambda : Button_Click(4),padx=40,pady=20)
+bt5=Button(root,text='5',command=lambda : Button_Click(5),padx=40,pady=20)
+bt1=Button(root,text='1',command=lambda : Button_Click(1),padx=40,pady=20)
+bt6=Button(root,text='6',command=lambda : Button_Click(6),padx=40,pady=20)
+bt7=Button(root,text='7',command=lambda : Button_Click(7),padx=40,pady=20)
+bt8=Button(root,text='8',command=lambda : Button_Click(8),padx=40,pady=20)
+bt9=Button(root,text='9',command=lambda : Button_Click(9),padx=40,pady=20)
+bt0=Button(root,text='0',command=lambda : Button_Click(1),padx=40,pady=20)
+btclear=Button(root,text='clear',command=Button_Clear,padx=86,pady=20)
+btbang=Button(root,text='=',command=Button_add,padx=91,pady=20)
+btcong=Button(root,text='+',command=Button_add,padx=40,pady=20)
+bt7.grid(row=1,column=0)
+bt8.grid(row=1,column=1)
+bt9.grid(row=1,column=2)
+bt4.grid(row=2,column=0)
+bt5.grid(row=2,column=1)
+bt6.grid(row=2,column=2)
+bt3.grid(row=3,column=2)
+bt1.grid(row=3,column=0)
+bt2.grid(row=3,column=1)
+bt0.grid(row=4,column=0)
+btclear.grid(row=4,column=1,columnspan=2)
+btbang.grid(row=5,column=1,columnspan=2)
+btcong.grid(row=5,column=0)
+
+#bt1.grid(row=1,column=0)
+root.mainloop()

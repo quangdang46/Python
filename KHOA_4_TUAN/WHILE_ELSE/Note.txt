@@ -1,0 +1,1 @@
+while else là khi vòng lặp while kết thúc tự nhiên không do lệnh break thì sẽ chuyển xuống thực hiện else
