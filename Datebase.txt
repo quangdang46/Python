@@ -1,0 +1,3 @@
+sp1;bia;20000.0
+sp2;nuocngot;22000.0
+sp3;cocacola;43000.0
